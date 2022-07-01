@@ -1,0 +1,15 @@
+Grade Final grade (A, B, C, D)
+Pass Did they pass the course? (No, Yes)
+Exam Mark in final exam (out of 100)
+Degree The degree type undertaken by the student
+Gender Gender of the student
+Attend Did they regularly attend class? (No, Yes)
+Assign Score obtained in mid-term assignment (out of 20)
+Test Score obtained in previous term test (out of 20)
+B Mark for short answer section (out of 20)
+C Mark for long answer section (out of 20)
+MC Mark for multiple choice sectionC (out of 30)
+Colour Colour of exam booklet (Blue, Green, Pink, Yellow)
+Stage1 Stage one grade (A, B, C)
+Years.Since Number of years since doing Stage 1
+Repeat Where they repeating the paper? (No, Yes)

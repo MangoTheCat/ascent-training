@@ -1,0 +1,9 @@
+name: python-training-environment
+channels:
+  - defaults
+dependencies:
+  - python=3.9.0
+  - line_profiler
+  - jupyterlab
+  - numpy
+  - pandas
